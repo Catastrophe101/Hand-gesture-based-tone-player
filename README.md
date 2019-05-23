@@ -1,6 +1,6 @@
 # Hand-gesture-based-tone-player<br />
-The python file in this project on run recognises the hand gestures ie count of fingers when placed inside the marked region.And plays the assigned sound files from the wav folder.<br />
-This project was made for the elective subject image processing during Final year(2018-2019)<br />
+The python file in this project when run recognises the hand gestures ie count of fingers placed inside the marked region on the camera feed.And plays the assigned sound files from the wav folder.<br />
+This project was made for the elective subject Image Processing during my final year(2018-2019)<br />
 
 # Prerequisites<br />
 1)Python 3.X <br />
